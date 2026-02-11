@@ -55,12 +55,12 @@ Purpose: identify the most informative variables and detect potential patterns r
 
 ---
 
-## ✅ Results
+## Results
 
 - **Best model:** Support Vector Machine (RBF kernel)  
 - **Accuracy:** ≈ **85%**  
 
-Additional evaluation metrics and visualizations are available inside the notebook.
+
 
 ---
 
