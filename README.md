@@ -76,7 +76,8 @@ Additional evaluation metrics and visualizations are available inside the notebo
 
 ## ▶️ How to Run
 
-### 1. Clone the repository
 ```bash
 git clone https://github.com/EpicNaje23/student-depression-prediction-ml.git
 cd student-depression-prediction-ml
+pip install -r requirements.txt
+jupyter notebook
